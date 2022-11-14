@@ -1,5 +1,4 @@
 {
-  "homepage": "https://negrojcb.github.io/TODO-Machine",
   "name": "reactapp",
   "version": "0.1.0",
   "private": true,
@@ -42,5 +41,6 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  }
+  },
+  "homepage": "https://negrojcb.github.io/TODO-Machine"
 }
